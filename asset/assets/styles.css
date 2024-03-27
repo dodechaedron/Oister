@@ -9,7 +9,7 @@ body {
   font-family: 'Roboto', sans-serif;
   background-color: #050D1A;
   z-index: -1;
-  background-image: url(bg.png);
+  background-image: url(bg-oister.png);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -26,7 +26,7 @@ header .nav-link {
 }
 
 header .nav-link.active {
-  color: #F2C94C;
+  color: #FFD700;
 }
 
 header .nav-link:hover {
